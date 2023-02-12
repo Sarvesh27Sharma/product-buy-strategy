@@ -10,8 +10,7 @@ Application can be run using command line and will print out the total and avera
 highly.
 
 ## UML
-
-![Alt design](./uml/uml.png)
+uml.png
 
 ## Design
 
