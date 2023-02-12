@@ -11,7 +11,7 @@ highly.
 
 ## UML
 
-![Alt design](./uml/uml.png)
+![Alt design](https://github.com/sarvesh27sharma/product-buy-strategy/blob/master/uml/uml.png?raw=true)
 
 ## Design
 
