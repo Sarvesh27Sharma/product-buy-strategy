@@ -10,7 +10,8 @@ Application can be run using command line and will print out the total and avera
 highly.
 
 ## UML
-uml.png
+
+![uml](https://user-images.githubusercontent.com/15670530/218314732-39d68542-3a8e-4291-aabe-e43d4ce1cf15.jpg)
 
 ## Design
 
