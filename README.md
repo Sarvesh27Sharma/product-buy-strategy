@@ -10,7 +10,7 @@ Application can be run using command line and will print out the total and avera
 highly.
 
 ## UML
-https://github.com/Sarvesh27Sharma/product-buy-strategy/blob/master/uml/uml.png
+<img src="uml/uml.png" width="400">
 
 ## Design
 
