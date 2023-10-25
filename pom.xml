@@ -9,13 +9,12 @@
     <name>product-buy-strategy</name>
     <description>App to provide strategy for buying products</description>
     <properties>
-        <java.version>19</java.version>
         <project.rootDirectory>${project.basedir}</project.rootDirectory>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-        <maven.compiler.source>19</maven.compiler.source>
-        <maven.compiler.target>19</maven.compiler.target>
-        <spring-boot.version>3.0.2</spring-boot.version>
+        <maven.compiler.source>21</maven.compiler.source>
+        <maven.compiler.target>21</maven.compiler.target>
+        <spring-boot.version>3.1.5</spring-boot.version>
     </properties>
     <dependencies>
         <dependency>
@@ -49,7 +48,7 @@
             <dependency>
                 <groupId>org.projectlombok</groupId>
                 <artifactId>lombok</artifactId>
-                <version>1.18.20</version>
+                <version>1.18.30</version>
                 <scope>provided</scope>
             </dependency>
         </dependencies>
